@@ -1,0 +1,180 @@
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe.config
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.pdb
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt-PT\CREDPLUS.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\twilio.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\EnvDTE.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\stdole.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Admin.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Bank.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.depo.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Empregador.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Form1.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Payment.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.profile.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Properties.Resources.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.ReciboPay.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo2.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo3.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Relatorio.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.view.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Form1.pt-PT.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.GenerateResource.cache
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\RdlCompile.cache
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\RdlCompile.compiled
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.CoreCompileInputs.cache
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\pt-PT\CREDPLUS.resources.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.CopyComplete
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.exe
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.pdb
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csprojAssemblyReference.cache
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe.config
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe.manifest
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.application
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.pdb
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt-PT\CREDPLUS.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\EnvDTE.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\stdole.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Microsoft.MSXML.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csprojAssemblyReference.cache
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Admin.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Bank.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.depo.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Empregador.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Form1.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Payment.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.profile.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Properties.Resources.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.ReciboPay.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo2.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo3.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Relatorio.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.view.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Form1.pt-PT.resources
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.GenerateResource.cache
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\RdlCompile.cache
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\RdlCompile.compiled
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.CoreCompileInputs.cache
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\pt-PT\CREDPLUS.resources.dll
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.TrustInfo.xml
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.exe.manifest
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.application
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDIPLUS.csproj.CopyComplete
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.exe
+C:\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.pdb

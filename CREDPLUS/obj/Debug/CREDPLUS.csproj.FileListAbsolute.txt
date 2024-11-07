@@ -1,0 +1,14 @@
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe.config
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.exe
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\CREDPLUS.pdb
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.csprojResolveAssemblyReference.cache
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Form1.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Properties.Resources.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.csproj.GenerateResource.Cache
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.exe
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.pdb
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\bin\Debug\Guna.UI.dll
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Admin.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo2.resources
+C:\Users\Amos Veremachi\Desktop\dsktop\Veremachi\CREDPLUS\CREDPLUS\obj\Debug\CREDPLUS.Registo3.resources
